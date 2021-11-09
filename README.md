@@ -26,7 +26,7 @@ Additionally, the penalty acts as an arbitrage that secures the volume of Binanc
 
 Strategic Burning
 
-From time to time the Astronos team will burn tokens to reduce the overall supply. Burns will be based on roadmap milestones and be announced in advance.
+From time to time the Astronos Strategic Growth wallet will buy, sell and burn tokens to improve liquidity flow and ultimately reduce the overall supply. Burns will be based on roadmap milestones and be announced in advance.
 
 To accomplish this, the team will be actively involved in token buybacks and manually burning them once we reach our space race goals. This economic mechanism helps Astronos maintain strong liquidity and price floor.
 
