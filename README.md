@@ -1,60 +1,29 @@
-# Astronos
+↔️ Trade
+Instantly swap crypto tokens: no registration or account needed.
 
-Astronos is a digital currency that bridges the worlds between crypto and FIAT money by paying its holders rewards in Binance USD.
-
-Cryptocurrency investors who want to protect their money while also growing it face one main problem which is choosing a coin to invest in that will make the most profit.
-
-Astronos aims to solve this issue by rewarding holders in USD stablecoins to give a real time hedge against future market volatility.
-
-
-Stable Rewards?
-
-USD Stablecoin rewards solve a host of problems.
-
-First, it helps returns the investors initial investment in a timely manner without selling any assets. The reward amount is based upon the trading volume of the asset.
-
-Second, it encourages investors to hold their tokens for longer periods of time in an effort to garnish higher payouts which are based upon percentages of the total tokens held by the shareholder.
-
-Automatic Liquidity
-
-Automatic Liquidity is a key ingredient to the success of Astronos. This function that acts as a two-fold beneficial implementation for holders.
-
-Initially, the contract taxes trades and transactions from sellers and buyers alike then adds them to the liquidity pool to enforce a solid price floor.
-
-Additionally, the penalty acts as an arbitrage that secures the volume of Binance USD as a reward for the current shareholders.
-
-
-Strategic Burning
-
-From time to time the Astronos Strategic Growth wallet will buy, sell and burn tokens to improve liquidity flow and ultimately reduce the overall supply. Burns will be based on roadmap milestones and be announced in advance.
-
-To accomplish this, the team will be actively involved in token buybacks and manually burning them once we reach our space race goals. This economic mechanism helps Astronos maintain strong liquidity and price floor.
-
-
-Mission Control
-
-Mission Control is the foundation of Astronos and its expedition. Mission control researches, funds, develops, and maintains the functionality for the Astronos Token.
-
-Mission Control will be responsible for managing the community and roadmap completion.
-
-Without Mission Control, Astronos would fail.
-
-Tokenomics
-Total Supply: 77,000,000
-‍
-- 7% Astronos Team (Vested)
-- 13% Strategic Growth (Airdrops)
-- 20% Future Liquidity (Locked)
-- 30% Presale (Blacklisted)
-- 30% Liquidity
-
-
-All presale tokens are eligible for BUSD rewards but blacklisted from selling to protect newer community members from any possible pump and dump by early adopters.
-‍
-
-Astronos Protocol
-In each trade, the transaction is taxed at 10%, which is split 3 ways.
-‍
-- 6% is redistributed to all holders
-- 3% is added as a liquidity pair
-- 1% is sent to Mission Control
+The people's choice
+Astronos is the next generation decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market.
+Low fees
+Why pay more? Astronos runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. 
+Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+Decentralized
+Trade directly from your wallet app. 
+Unlike centralized exchanges like Binance or Coinbase, Astronos doesn’t hold your funds when you trade: you have 100% ownership of your own crypto. 
+💸 Earn
+Earn ASTRO and other tokens for free with super high interest rates.
+Earn tokens with Pools
+Stake ASTRO, earn free tokens. It’s really that easy. 
+ASTRO holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+Earn ASTRO with Yield Farms
+Stake LP tokens, earn ASTRO. You take on a little more exposure to market fluctuations than with the Pools, but can earn higher APR to offset the risk.
+Earn Trading Fees
+No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+🎲 Win
+Astronos makes making money fun.
+Lottery 
+Thousands of dollars regularly go up for grabs on the Astronos Lottery. 
+NFT Collectibles 
+Win collectible NFTs for participating in trading competitions and more fun & games.
+Prediction
+Win BNB if you can predict whether the BNB price will rise or fall.
+New rounds every 5 minutes!
